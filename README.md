@@ -1,2 +1,3 @@
 # python-pipeline-docker
-Used to test any Pythoin scripts in conjuction with our other pipeline tools
+
+Used to test any Python scripts in conjunction with our other pipeline tools
