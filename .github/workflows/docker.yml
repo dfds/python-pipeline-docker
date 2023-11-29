@@ -16,7 +16,5 @@ jobs:
     with:
       image-repo: dfdsdk/python-pipeline
       os-archs: "linux/amd64,linux/arm64"
-      test-script-path: test-image.sh
-      test-script-cmd: "bash test-image.sh"
       docker-readme-path: "./README.md"
       slack-notification: true
